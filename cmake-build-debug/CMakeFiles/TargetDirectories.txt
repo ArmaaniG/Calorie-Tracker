@@ -1,0 +1,3 @@
+C:/Users/Armaani/CLionProjects/CalorieTracker1/cmake-build-debug/CMakeFiles/CalorieTracker1.dir
+C:/Users/Armaani/CLionProjects/CalorieTracker1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Armaani/CLionProjects/CalorieTracker1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

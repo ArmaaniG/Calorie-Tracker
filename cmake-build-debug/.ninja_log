@@ -1,0 +1,12 @@
+# ninja log v5
+1	150	7143494389508939	build.ninja	eebb04305452e377
+556	705	7139310194965410	CalorieTracker1.exe	d5581103ed1c450
+1	555	7139310193500150	CMakeFiles/CalorieTracker1.dir/main.cpp.obj	1227fc7a2eeb5189
+1	519	7143494458598237	CMakeFiles/CalorieTracker1.dir/main.cpp.obj	9727e1d737e3d9df
+520	705	7143494460413559	CalorieTracker1.exe	d5581103ed1c450
+1	506	7143504694970769	CMakeFiles/CalorieTracker1.dir/main.cpp.obj	9727e1d737e3d9df
+507	643	7143504696316007	CalorieTracker1.exe	d5581103ed1c450
+1	509	7143516003038819	CMakeFiles/CalorieTracker1.dir/main.cpp.obj	9727e1d737e3d9df
+509	649	7143516004404061	CalorieTracker1.exe	d5581103ed1c450
+2	559	7143908490188306	CMakeFiles/CalorieTracker1.dir/main.cpp.obj	9727e1d737e3d9df
+559	790	7143908492468698	CalorieTracker1.exe	d5581103ed1c450
